@@ -19,7 +19,7 @@ int main(void) {
 
 	printf("이름과 혈액형을 입력하세요");
 	gets(name); //문자입력 함수들 (getchar(),putchar(),gets(),puts(),scanf()..)
-	gets(bloodtype);//한줄단위로 문자열 입력받음.
+	gets(bloodtype);//한줄단위로 문자열 입력받음(~Enter까지).
 
 	printf("나이 키 몸무게  순서대로 입력하세요:");
 	scanf_s("%d %lf %lf", &age, &height , &weight);
