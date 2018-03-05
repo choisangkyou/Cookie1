@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B8F373F2-9E72-42D6-AA43-C7E43E7CC8D9}</ProjectGuid>
-    <RootNamespace>Cookie1</RootNamespace>
+    <ProjectGuid>{ACF035BB-A060-45E7-A1B9-7394DE0E2300}</ProjectGuid>
+    <RootNamespace>exam01</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>exam_scanf</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
