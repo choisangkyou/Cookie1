@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <time.h> 
 // 반복문(while,for) 
-
+/*
 void main() {
-	/*
+
 	int i = 1;
 	int dan;
 
@@ -21,8 +21,7 @@ void main() {
 	for (int i = 1; i < 10; i++) {
 		printf("%d * %d = %d\n", dan, i, dan*i);
 	}
-	*/
-	/*
+
 	printf("====[구구단]=======\n");
 	for (int i = 1; i < 10; i++) {
 		for (int j = 2; j < 10; j++) {
@@ -32,7 +31,7 @@ void main() {
 		printf("\n");
 
 	}
-	*/
+	
 
 	//난수를 이용한 숫자 맞추기.
 	//typedef enum { false, true } bool;
@@ -42,7 +41,7 @@ void main() {
 	ran = rand() % 100 + 1; //난수 1~100 까지 생성.
 	printf("[1~100]까지 숫자를 입력하세요:");
 	//printf("%d", ran);
-
+	
 	do {
 
 	printf("[%d ~ %d] 사이 숫자를 입력하세요. \n", low, high);
@@ -63,8 +62,5 @@ void main() {
 		
 	} while (bloop);
 
-
-
-
-	
 }
+*/
